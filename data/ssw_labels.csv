@@ -1,0 +1,82 @@
+ebird_code,class_id,SCIENTIFIC_NAME,COMMON_NAME
+cangoo,0,Branta canadensis,Canada Goose
+snogoo,1,Anser caerulescens,Snow Goose
+tunswa,2,Cygnus columbianus,Tundra Swan
+wooduc,3,Aix sponsa,Wood Duck
+mallar3,4,Anas platyrhynchos,Mallard
+moudov,5,Zenaida macroura,Mourning Dove
+killde,6,Charadrius vociferus,Killdeer
+amewoo,7,Scolopax minor,American Woodcock
+solsan,8,Tringa solitaria,Solitary Sandpiper
+ribgul,9,Larus delawarensis,Ring-billed Gull
+bcnher,10,Nycticorax nycticorax,Black-crowned Night Heron
+grbher3,11,Ardea herodias,Great Blue Heron
+coohaw,12,Astur cooperii,Cooper's Hawk
+brdowl,13,Strix varia,Barred Owl
+belkin1,14,Megaceryle alcyon,Belted Kingfisher
+rebwoo,15,Melanerpes carolinus,Red-bellied Woodpecker
+yebsap,16,Sphyrapicus varius,Yellow-bellied Sapsucker
+dowwoo,17,Dryobates pubescens,Downy Woodpecker
+haiwoo,18,Leuconotopicus villosus,Hairy Woodpecker
+norfli,19,Colaptes auratus,Northern Flicker
+pilwoo,20,Dryocopus pileatus,Pileated Woodpecker
+easpho,21,Sayornis phoebe,Eastern Phoebe
+eawpew,22,Contopus virens,Eastern Wood-Pewee
+aldfly,23,Empidonax alnorum,Alder Flycatcher
+easkin,24,Tyrannus tyrannus,Eastern Kingbird
+grcfly,25,Myiarchus crinitus,Great Crested Flycatcher
+reevir1,26,Vireo olivaceus,Red-eyed Vireo
+warvir,27,Vireo gilvus,Eastern Warbling Vireo
+yetvir,28,Vireo flavifrons,Yellow-throated Vireo
+buhvir,29,Vireo solitarius,Blue-headed Vireo
+blujay,30,Cyanocitta cristata,Blue Jay
+amecro,31,Corvus brachyrhynchos,American Crow
+comrav,32,Corvus corax,Common Raven
+cedwax,33,Bombycilla cedrorum,Cedar Waxwing
+tuftit,34,Baeolophus bicolor,Tufted Titmouse
+bkcchi,35,Poecile atricapillus,Black-capped Chickadee
+treswa,36,Tachycineta bicolor,Tree Swallow
+ruckin,37,Corthylio calendula,Ruby-crowned Kinglet
+gockin,38,Regulus satrapa,Golden-crowned Kinglet
+houwre,39,Troglodytes aedon,Northern House Wren
+whbnut,40,Sitta carolinensis,White-breasted Nuthatch
+rebnut,41,Sitta canadensis,Red-breasted Nuthatch
+brncre,42,Certhia americana,Brown Creeper
+grycat,43,Dumetella carolinensis,Gray Catbird
+eursta,44,Sturnus vulgaris,European Starling
+easblu,45,Sialia sialis,Eastern Bluebird
+woothr,46,Hylocichla mustelina,Wood Thrush
+amerob,47,Turdus migratorius,American Robin
+purfin,48,Haemorhous purpureus,Purple Finch
+houfin,49,Haemorhous mexicanus,House Finch
+redcro,50,Loxia curvirostra,Red Crossbill
+amegfi,51,Spinus tristis,American Goldfinch
+pinsis,52,Spinus pinus,Pine Siskin
+daejun,53,Junco hyemalis,Dark-eyed Junco
+whtspa,54,Zonotrichia albicollis,White-throated Sparrow
+sonspa,55,Melospiza melodia,Song Sparrow
+swaspa,56,Melospiza georgiana,Swamp Sparrow
+eastow,57,Pipilo erythrophthalmus,Eastern Towhee
+boboli,58,Dolichonyx oryzivorus,Bobolink
+balori,59,Icterus galbula,Baltimore Oriole
+rewbla,60,Agelaius phoeniceus,Red-winged Blackbird
+bnhcow,61,Molothrus ater,Brown-headed Cowbird
+rusbla,62,Euphagus carolinus,Rusty Blackbird
+comgra,63,Quiscalus quiscula,Common Grackle
+ovenbi1,64,Seiurus aurocapilla,Ovenbird
+norwat,65,Parkesia noveboracensis,Northern Waterthrush
+buwwar,66,Vermivora cyanoptera,Blue-winged Warbler
+naswar,67,Leiothlypis ruficapilla,Nashville Warbler
+comyel,68,Geothlypis trichas,Common Yellowthroat
+hoowar,69,Setophaga citrina,Hooded Warbler
+amered,70,Setophaga ruticilla,American Redstart
+bkbwar,71,Setophaga fusca,Blackburnian Warbler
+yelwar,72,Setophaga aestiva,Northern Yellow Warbler
+chswar,73,Setophaga pensylvanica,Chestnut-sided Warbler
+yerwar,74,Setophaga coronata,Yellow-rumped Warbler
+btnwar,75,Setophaga virens,Black-throated Green Warbler
+scatan,76,Piranga olivacea,Scarlet Tanager
+robgro,77,Pheucticus ludovicianus,Rose-breasted Grosbeak
+norcar,78,Cardinalis cardinalis,Northern Cardinal
+herthr,79,Catharus guttatus,Hermit Thrush
+veery,80,Catharus fuscescens,Veery

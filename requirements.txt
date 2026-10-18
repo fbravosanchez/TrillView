@@ -1,0 +1,10 @@
+dash>=4.1.0
+librosa>=0.10.1
+matplotlib>=3.8.3
+pandas>=2.2.0
+pillow>=10.2.0
+filelock
+pyarrow
+zstandard
+gunicorn
+flask
